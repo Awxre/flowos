@@ -1,0 +1,26 @@
+{
+    "audio": "pipewire",
+    "bootloader": "systemd-boot",
+    "desktop-environment": "gnome",
+    "gfx_driver": "All open-source",
+    "hostname": "arch-prototype",
+    "kernels": ["linux"],
+    "mirror-region": ["United States"],
+    "nic": "NetworkManager",
+    "ntp": true,
+    "packages": [
+        "gnome-tweaks",
+        "gnome-shell-extension-dash-to-dock",
+        "gnome-shell-extension-appindicator",
+        "firefox",
+        "git"
+    ],
+    "parallel downloads": 5,
+    "profile": "desktop",
+    "storage": {
+        "disk_layouts": [],
+        "mountpoints": {}
+    },
+    "swap": true,
+    "timezone": "UTC"
+}
