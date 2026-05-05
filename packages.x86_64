@@ -99,6 +99,9 @@ bash-completion
 xdg-user-dirs
 xdg-utils
 
+# installer
+arch-install-scripts
+
 
 # extension support
 gnome-shell-extensions
