@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Install Arch Linux
+Comment=Launch the guided installer
+# This opens a terminal and runs archinstall with your preset
+Exec=gnome-terminal -- full-screen -- bash -c "sudo archinstall --config /usr/share/archinstall/presets/user_configuration.json; echo 'Press any key to close...'; read -n 1"
+Icon=system-software-install
+Terminal=false
+Categories=System;
