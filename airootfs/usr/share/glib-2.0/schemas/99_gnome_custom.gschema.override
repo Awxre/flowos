@@ -1,0 +1,18 @@
+[org.gnome.shell]
+enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'appindicatorsupport@rgcjonas.gmail.com', 'arcmenu@arcmenu.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'ding@rastersoft.com']
+
+[org.gnome.shell.extensions.dash-to-dock]
+dash-max-icon-size=32
+custom-theme-shrink=true
+extend-height=false
+dock-position='BOTTOM'
+background-opacity=0.5
+show-apps-at-top=true
+
+[org.gnome.desktop.interface]
+color-scheme='prefer-dark'
+gtk-theme='Adwaita-dark'
+icon-theme='Adwaita'
+
+[org.gnome.mutter]
+center-new-windows=true
