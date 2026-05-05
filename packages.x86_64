@@ -112,3 +112,34 @@ gnome-shell-extension-appindicator
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-arc-menu
 gnome-shell-extension-desktop-icons-ng
+
+# audio fonts
+pipewire
+pipewire-pulse
+wireplumber
+noto-fonts
+noto-fonts-emoji
+noto-fonts-cjk
+
+# gnome integrations
+gvfs
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+nautilus-python
+gnome-control-center
+power-profiles-daemon
+ffmpegthumbnailer
+
+# video / hardware
+libva-intel-driver
+intel-media-driver
+mesa-utils
+
+# more util
+reflector
+pacman-contrib
+man-db
+man-pages
+usb_modeswitch
+python-packaging
