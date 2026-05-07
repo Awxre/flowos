@@ -28,4 +28,3 @@ file_permissions=(
   ["/usr/local/bin/customize_rootfs.sh"]="0:0:755"
   ["/usr/share/applications/install-arch.desktop"]="0:0:755"
 )
-)
